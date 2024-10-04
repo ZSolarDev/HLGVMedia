@@ -18,3 +18,4 @@ It was actually really silly. I used to only know how to compile to cpp, and nev
 ZSolarDev: Made the library externs
 ACrazyTown(Anthony): Helped me a TON with the externs
 FFMpeg: Without ffmpeg, I would have to use vlc, which I only have hxvlc to base my code off of. Not only that, but the source code layout doesn't make sense to me(If you compile to cpp, you should use hxvlc.)
+Soywiz: made openfl-ffmpeg, I based my HashLink externs on these.
