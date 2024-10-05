@@ -1,6 +1,13 @@
 # HLGVMedia
 HashLink General Video Media.
-![](https://github.com/ZSolarDev/HLGVMedia/blob/main/resource/Icon.png)
+<p align="center">
+  <img width="400" src="https://github.com/ZSolarDev/HLGVMedia/blob/main/resource/PromoIcon.png">
+
+
+    
+  ![]()
+</p>
+
 
 ## What is it?
 The name explains it pretty well, this is a Video Library made specifically for hashlink.
