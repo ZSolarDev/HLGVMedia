@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "electron-winstaller": "^5.4.0"
+  }
+}
